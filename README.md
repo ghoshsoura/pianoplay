@@ -1,3 +1,4 @@
+![piano](https://github.com/user-attachments/assets/b6018035-2d36-4357-b83d-55952a5c78fd)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
